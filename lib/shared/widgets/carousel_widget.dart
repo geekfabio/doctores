@@ -167,7 +167,7 @@ class CardWidget extends StatelessWidget {
                         // print(currentPage);
                       },
                       child: Text(
-                        'Saber mais...',
+                        'Saber mais..',
                         style: TextStyle(color: AppColors.primary),
                       ),
                       style: ElevatedButton.styleFrom(
